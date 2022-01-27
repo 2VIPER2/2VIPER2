@@ -7,7 +7,7 @@
       HTML,
       CSS,
       Javascript,
-      Flutter
+      Flutter.
       
 - 👀 I’m interested in web development and i am a pianist.
 
