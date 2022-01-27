@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Rohan Sharma (@2VIPER2).
 
 - 📍 The languages that i know are 
-      -Python
-      -C++
-      -Java
-      -HTML
-      -CSS
-      -Javascript
-      -Flutter
+      Python,
+      C++,
+      Java,
+      HTML,
+      CSS,
+      Javascript,
+      Flutter
       
 - 👀 I’m interested in web development and i am a pianist.
 
